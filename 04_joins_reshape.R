@@ -105,3 +105,7 @@ matricula_larga |>
 
 matricula_larga |>
   pivot_wider(names_from = ano, values_from = estudiantes)
+
+
+
+# Comentario para probar el flujo de Git 
