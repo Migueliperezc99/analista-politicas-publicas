@@ -113,4 +113,5 @@ datos |>
   filter(entity == "Colombia", year %% 10 <= 1) |>
   mutate(pib_colombia = total_pop*gdp_per_cap) |>
   select(year, total_pop, gdp_per_cap, pib_colombia)
-  
+
+# Segundo comentario de prueba de flujo de Git  
